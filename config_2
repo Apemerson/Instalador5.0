@@ -1,9 +1,0 @@
-deploy_password=Ap10283012@
-mysql_root_password=Ap10283012@*/*
-db_pass=Ap10283012@*/*
-redis_pass=Ap10283012@*/*
-jwt_secret=1228301212302810
-jwt_refresh_secret=75756756756
-deploy_email=botesistemas@gmail.com
-db_user=root
-db_name=torresticket
